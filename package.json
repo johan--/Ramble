@@ -19,7 +19,7 @@
         "jade": "1.7.0",
         "optimist": "0.6.1",
         "lodash": "2.4.1",
-        "underscore": "1.7.0",
+        "underscore": "1.13.8",
         "underscore.string": "2.3.3",
         "bluebird": "2.3.4",
         "bookshelf": "0.7.7",
